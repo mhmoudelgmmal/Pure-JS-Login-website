@@ -1,0 +1,49 @@
+body{
+    background-color: #24353f;
+}
+.fix{    
+    height: 100vh;
+}
+#loginBox{
+    width: 75%;
+    padding: 40px;
+    border:1px solid;
+    box-shadow:-5px 2px 54px -9px rgb(0, 0, 0);
+}
+button{
+    border:1px solid #17a2b8 !important;
+    color: #17a2b8 !important;
+    background-color:transparent;
+    transition:0.3s all ease-in-out;
+}
+button:hover{
+    background-color:#17a2b8;
+    color:white !important;
+}
+h1{
+    color:#17a2b8;
+}
+.sp1{
+    color:white;
+}
+#sp2{
+    color:white;
+    
+}
+#sp2:hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+.navbar{
+    background-color: #24353f !important;
+    box-shadow: 0 0 40px 0 rgb(0, 0, 0);
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-item .btn {
+    color: white !important;
+    border-color: yellow !important;
+    
+}
